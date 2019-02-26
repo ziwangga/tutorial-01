@@ -2,3 +2,4 @@
 
 NPM	: 1706107062
 Nama	: Wahyu Maulana Ziwangga
+Jurusan : Ekstensi Sistem Informasi
